@@ -22,4 +22,6 @@ int main() {
     
     std::cout << "Sales amount: " << sales << std::endl;
     std::cout << "Commission total: " << commission << std::endl;
+
+    return 0;
 }
